@@ -1,0 +1,45 @@
+/*#menu-top-bar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  background-color: #000;
+  width: 100%;
+}
+
+#menu-top-bar li a {
+  padding: 0.25rem 1rem;
+  color: #fff;
+}
+
+#menu-top-bar li::first-child a {
+  padding-left: 0;
+}
+
+#menu-top-bar li::last-child a {
+  padding-right: 0;
+}*/
+
+/*#menu-top-div {
+  padding: 0px;
+}
+
+header {
+  width: 100% !important;
+}
+*/
+.container-fluid {
+  width: 100% !important;
+}
+
+.jumbotron {
+  padding: 10px !important;
+  text-align: center;
+}
+
+.navbar {
+  margin-bottom: 0px !important;
+}
+.carousel-caption {
+  margin-top: 0px !important;
+}
